@@ -5,7 +5,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 from xgboost import plot_importance
 
-model = jb.load(r'E://Models//Customer_churn.pkl')
+model = jb.load('Customer_churn.pkl')
 
 st.title("📊 Customer Churn Prediction App")
 
@@ -113,5 +113,6 @@ with tab1:
     fig, ax = plt.subplots(figsize=(12, 8))
     plot_importance(xgb_model, max_num_features = 20, importance_type='weight', ax=ax)
     st.pyplot(fig)
+
 
         
