@@ -1,6 +1,6 @@
 # 🧩 Customer Churn Prediction using Machine Learning
 
-This project predicts customer churn — whether a customer is likely to discontinue a service — based on behavioral, demographic, and billing data. The aim is to help businesses identify at-risk customers early and implement proactive retention strategies.
+This project predicts customer churn — whether a customer is likely to discontinue a service — based on behavioral, demographic, and billing data. The aim is to help businesses identify at-risk customers early
 
 ---
 
