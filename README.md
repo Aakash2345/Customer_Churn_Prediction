@@ -48,21 +48,21 @@ ROC-AUC Score: ~0.88
 
 Top Churn Drivers:
 
-    High monthly charges
+  High monthly charges
   
-    Short tenure period
+  Short tenure period
   
-    Electronic check payment method
+  Electronic check payment method
   
-    Fiber optic internet service
+  Fiber optic internet service
 
 Recommendations:
 
-    Offer loyalty incentives for new customers to increase retention
+   Offer loyalty incentives for new customers to increase retention
     
-    Introduce discounts for high-bill customers
+   Introduce discounts for high-bill customers
     
-    Target electronic check users with alternative payment methods
+   Target electronic check users with alternative payment methods
 
 🧠 Tech Stack
 
