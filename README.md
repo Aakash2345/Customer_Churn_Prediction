@@ -45,10 +45,15 @@ The XGBoost model achieved the highest ROC-AUC score and was selected as the fin
 📈 Results & Insights
 
 ROC-AUC Score: ~0.88
+
 Top Churn Drivers:
+
   High monthly charges
+  
   Short tenure period
+  
   Electronic check payment method
+  
   Fiber optic internet service
 
 Recommendations:
