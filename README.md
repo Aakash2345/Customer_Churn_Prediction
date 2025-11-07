@@ -1,3 +1,12 @@
+# 🧠 Customer Churn Prediction App
+
+This Streamlit app predicts whether a customer is likely to **churn (leave)** or **stay** based on their behavior and demographics.  
+It helps businesses identify at-risk customers and take proactive retention actions.
+
+👉 **Try it here:** [Open Streamlit App](https://customer-churn-prevention-project.streamlit.app)
+
+---
+
 # 🧩 Customer Churn Prediction using Machine Learning
 
 This project predicts customer churn — whether a customer is likely to discontinue a service — based on behavioral, demographic, and billing data. The aim is to help businesses identify at-risk customers early
